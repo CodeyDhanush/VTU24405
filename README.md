@@ -17,4 +17,5 @@ src/
 └── main.jsx
 ```
 ##Output :
-https://github.com/CodeyDhanush/VTU24405/blob/main/Output_Image-01.png
+ 1. https://github.com/CodeyDhanush/VTU24405/blob/main/Output_Image-01.png
+ 2. https://github.com/CodeyDhanush/VTU24405/blob/main/Output_Image-02.png
