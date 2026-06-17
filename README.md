@@ -16,3 +16,5 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
+##Output :
+https://github.com/CodeyDhanush/VTU24405/blob/main/Output_Image-01.png
